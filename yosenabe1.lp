@@ -1,5 +1,3 @@
-% Encoding a solver for the Yosenabe game.For this question we have to provide an encoding that moves all blocks into gray areas such that the movement of the block is made in straitgh line. We ignore for now all the other restrictions of the game.
-
 block(X, Y, N):- number(X, Y, N).
 % achievement: Identify all blocks in the game
 
